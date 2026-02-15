@@ -91,3 +91,6 @@ activities:
 units:
   distance: "mi"   # "mi" or "km"
   elevation: "ft"  # "ft" or "m"
+
+heatmaps:
+  week_start: "sunday" # "sunday" or "monday"

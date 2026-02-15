@@ -51,6 +51,7 @@ Follow the terminal prompts to choose a source and unit preference:
    - The prompt will then ask for `Client ID` and `Client Secret`, and if you'd like to place your Strava profile link on the dashboard.
 - `garmin` - terminal prompts for Garmin email/password
 - unit preference (`US` or `Metric`)
+- heatmap week start (`Sunday` or `Monday`) for yearly card y-axis ordering
 - optional custom dashboard domain (for example `strava.example.com`), which setup will apply to GitHub Pages automatically
 
 The setup may take several minutes to complete when run for the first time. If any automation step fails, the script prints steps to remedy the failed step.  
@@ -101,6 +102,7 @@ Activity type behavior:
 Display + rate-limit settings:
 - `units.distance` (`mi` or `km`)
 - `units.elevation` (`ft` or `m`)
+- `heatmaps.week_start` (`sunday` or `monday`)
 - `rate_limits.*` (Strava API pacing caps used by sync; ignored for Garmin)
 
 ## Notes
