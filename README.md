@@ -20,9 +20,9 @@ bash <(curl -fsSL https://raw.githubusercontent.com/aspain/git-sweaty/main/scrip
 
 You will be prompted for:
 - Setup mode:
-  - Local mode: setup script will create the fork, clone the repo, and complete the rest of the setup.
-  - Online mode (default): no local clone; setup script will configure a fork or an existing writable repo
-- Optional GitHub Pages custom domain (for example `strava.example.com`)
+  - Local: setup script will create the fork, clone the repo, and complete the rest of the setup.
+  - Online (default): no local clone; setup script will configure a fork or an existing writable repo
+- Optional GitHub Pages custom domain (if you have one, for example `strava.example.com`)
 - Source (`strava` or `garmin`)
 - Unit preference (`US` or `Metric`)
 - Heatmap week start (`Sunday` or `Monday`)
