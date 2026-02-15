@@ -59,6 +59,7 @@ class SiteAppearanceContractTests(unittest.TestCase):
             "resetAllButton",
             "footerHostedPrefix",
             "footerHostedLink",
+            "footerPoweredLabel",
             "footerPoweredLink",
         ]
         for element_id in expected_ids:
@@ -66,7 +67,8 @@ class SiteAppearanceContractTests(unittest.TestCase):
 
         self.assertIn('class="header-link repo-link"', self.html)
         self.assertIn('class="header-link strava-profile-link"', self.html)
-        self.assertIn("powered by", self.html)
+        self.assertIn('id="footerPoweredLabel"', self.html)
+        self.assertIn(">powered<", self.html)
         self.assertIn("aspain/git-sweaty", self.html)
         self.assertIn('<script src="app.js?v=__APP_VERSION__"></script>', self.html)
 
