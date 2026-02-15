@@ -129,6 +129,29 @@ exit 0
         )
 
         _write_executable(
+            os.path.join(fake_bin, "tar"),
+            """#!/usr/bin/env bash
+set -euo pipefail
+echo "$*" >> "${FAKE_TAR_LOG}"
+dest=""
+for ((i=1; i<=$#; i++)); do
+  arg="${!i}"
+  if [[ "${arg}" == "-C" ]]; then
+    j=$((i+1))
+    dest="${!j}"
+    break
+  fi
+done
+if [[ -z "${dest}" ]]; then
+  exit 1
+fi
+mkdir -p "${dest}/git-sweaty-main/scripts"
+: > "${dest}/git-sweaty-main/scripts/setup_auth.py"
+exit 0
+""",
+        )
+
+        _write_executable(
             os.path.join(fake_bin, "python3"),
             """#!/usr/bin/env bash
 set -euo pipefail
@@ -628,6 +651,7 @@ exit 0
             env["FAKE_GIT_LOG"] = git_log
             env["FAKE_GH_LOG"] = gh_log
             env["FAKE_CURL_LOG"] = curl_log
+            env["FAKE_TAR_LOG"] = os.path.join(tmpdir, "tar.log")
             env["FAKE_PY_LOG"] = py_log
             env["FAKE_REPO_VIEW_FAIL_FOR"] = "tester/git-sweaty"
 
@@ -660,13 +684,13 @@ exit 0
             with open(curl_log, "r", encoding="utf-8") as f:
                 curl_calls = f.read()
             self.assertIn(
-                "-fsSL https://raw.githubusercontent.com/aspain/git-sweaty/main/scripts/setup_auth.py",
+                "-fsSL https://github.com/aspain/git-sweaty/archive/refs/heads/main.tar.gz",
                 curl_calls,
             )
 
             with open(py_log, "r", encoding="utf-8") as f:
                 py_calls = f.read()
-            self.assertIn(" --repo tester/sweaty-online", py_calls)
+            self.assertIn("/scripts/setup_auth.py --repo tester/sweaty-online", py_calls)
 
     def test_bootstrap_online_mode_without_fork_uses_prompted_repo(self) -> None:
         with tempfile.TemporaryDirectory() as tmpdir:
@@ -680,6 +704,7 @@ exit 0
             env["FAKE_GIT_LOG"] = os.path.join(tmpdir, "git.log")
             env["FAKE_GH_LOG"] = gh_log
             env["FAKE_CURL_LOG"] = os.path.join(tmpdir, "curl.log")
+            env["FAKE_TAR_LOG"] = os.path.join(tmpdir, "tar.log")
             env["FAKE_PY_LOG"] = py_log
             env["FAKE_REPO_VIEW_FAIL_FOR"] = "tester/git-sweaty"
 
@@ -701,7 +726,7 @@ exit 0
 
             with open(py_log, "r", encoding="utf-8") as f:
                 py_calls = f.read()
-            self.assertIn(" --repo tester/existing-online", py_calls)
+            self.assertIn("/scripts/setup_auth.py --repo tester/existing-online", py_calls)
 
 
 if __name__ == "__main__":

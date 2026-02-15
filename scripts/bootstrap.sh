@@ -536,10 +536,11 @@ fork_and_clone() {
 run_online_setup() {
   local upstream_repo="$1"
   shift || true
-  local login target_repo default_branch setup_url tmp_dir setup_script status
+  local login target_repo default_branch archive_url tmp_dir archive_path extract_dir extracted_root setup_script status
 
   require_cmd curl
   require_cmd python3
+  require_cmd tar
   ensure_gh_auth
 
   login="$(gh api user --jq .login 2>/dev/null || true)"
@@ -554,14 +555,28 @@ run_online_setup() {
 
   default_branch="$(gh api "repos/${upstream_repo}" --jq .default_branch 2>/dev/null || true)"
   [[ -n "$default_branch" ]] || default_branch="main"
-  setup_url="https://raw.githubusercontent.com/${upstream_repo}/${default_branch}/${SETUP_SCRIPT_REL}"
+  archive_url="https://github.com/${upstream_repo}/archive/refs/heads/${default_branch}.tar.gz"
   tmp_dir="$(mktemp -d)"
-  setup_script="${tmp_dir}/setup_auth.py"
+  archive_path="${tmp_dir}/source.tar.gz"
+  extract_dir="${tmp_dir}/source"
 
-  info "Downloading setup helper from ${setup_url}"
-  if ! curl -fsSL "$setup_url" -o "$setup_script"; then
+  info "Downloading setup source bundle from ${archive_url}"
+  if ! curl -fsSL "$archive_url" -o "$archive_path"; then
     rm -rf "$tmp_dir"
-    fail "Unable to download setup helper from ${setup_url}"
+    fail "Unable to download setup source bundle from ${archive_url}"
+  fi
+
+  mkdir -p "$extract_dir"
+  if ! tar -xzf "$archive_path" -C "$extract_dir"; then
+    rm -rf "$tmp_dir"
+    fail "Unable to extract setup source bundle."
+  fi
+
+  extracted_root="$(find "$extract_dir" -mindepth 1 -maxdepth 1 -type d | head -n 1 || true)"
+  setup_script="${extracted_root}/${SETUP_SCRIPT_REL}"
+  if [[ -z "$extracted_root" || ! -f "$setup_script" ]]; then
+    rm -rf "$tmp_dir"
+    fail "Setup script not found in downloaded source bundle (${SETUP_SCRIPT_REL})."
   fi
 
   info ""
