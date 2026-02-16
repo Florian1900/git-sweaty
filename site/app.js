@@ -3606,11 +3606,10 @@ async function init() {
     selectedValues,
     allValues,
     normalizeValue = (value) => value,
-    allowMobileToggleOffAll = false,
-    isMobileLayout = false,
+    allowToggleOffAll = false,
   }) {
     if (rawValue === "all") {
-      if (allowMobileToggleOffAll && isMobileLayout && allMode) {
+      if (allowToggleOffAll && allMode) {
         return { allMode: false, selectedValues: new Set() };
       }
       return { allMode: true, selectedValues: new Set() };
@@ -3859,8 +3858,7 @@ async function init() {
       allMode: selection.allMode,
       selectedValues: selection.selectedValues,
       allValues: payload.types,
-      allowMobileToggleOffAll: true,
-      isMobileLayout: isNarrowLayoutViewport(),
+      allowToggleOffAll: true,
     });
     draftTypeMenuSelection = nextState;
   }
@@ -3889,8 +3887,7 @@ async function init() {
       selectedValues: selection.selectedValues,
       allValues: currentVisibleYears,
       normalizeValue: (rawValue) => Number(rawValue),
-      allowMobileToggleOffAll: true,
-      isMobileLayout: isNarrowLayoutViewport(),
+      allowToggleOffAll: true,
     });
     draftYearMenuSelection = nextState;
   }
