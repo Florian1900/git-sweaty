@@ -7,23 +7,32 @@ const FALLBACK_VAPORWAVE = ["#f15bb5", "#fee440", "#00bbf9", "#00f5d4", "#9b5de5
 const STAT_PLACEHOLDER = "- - -";
 const CREATOR_REPO_SLUG = "aspain/git-sweaty";
 const TYPE_LABEL_OVERRIDES = {
-  HighIntensityIntervalTraining: "HITT",
-  Workout: "Other Workout",
+  HighIntensityIntervalTraining: "HIIT",
+  Workout: "Training",
+  Run: "Laufen",
+  Ride: "Radfahrt",
+  Hike: "Wandern",
+  Walk: "Gehen",
+  Swim: "Schwimmen",
+  WeightTraining: "Krafttraining",
+  Yoga: "Yoga",
+  // Fügen Sie hier weitere Typen hinzu, die Sie nutzen
+};
 };
 let TYPE_META = {};
 let OTHER_BUCKET = "OtherSports";
 
-const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
-const DAYS = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
-const WEEK_START_SUNDAY = "sunday";
-const WEEK_START_MONDAY = "monday";
+const MONTHS = ["Jan", "Feb", "Mär", "Apr", "Mai", "Jun", "Jul", "Aug", "Sep", "Okt", "Nov", "Dez"];
+const DAYS = ["So", "Mo", "Di", "Mi", "Do", "Fr", "Sa"];
+// ... (Konstanten dazwischen unverändert lassen)
 const WEEKDAY_LABELS_BY_WEEK_START = Object.freeze({
-  [WEEK_START_SUNDAY]: Object.freeze(["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"]),
-  [WEEK_START_MONDAY]: Object.freeze(["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]),
+  [WEEK_START_SUNDAY]: Object.freeze(["So", "Mo", "Di", "Mi", "Do", "Fr", "Sa"]),
+  [WEEK_START_MONDAY]: Object.freeze(["Mo", "Di", "Mi", "Do", "Fr", "Sa", "So"]),
+});
 });
 const MS_PER_DAY = 1000 * 60 * 60 * 24;
 const ACTIVE_DAYS_METRIC_KEY = "active_days";
-const DEFAULT_UNITS = Object.freeze({ distance: "mi", elevation: "ft" });
+const DEFAULT_UNITS = Object.freeze({ distance: "km", elevation: "m" });
 const UNIT_SYSTEM_TO_UNITS = Object.freeze({
   imperial: Object.freeze({ distance: "mi", elevation: "ft" }),
   metric: Object.freeze({ distance: "km", elevation: "m" }),
