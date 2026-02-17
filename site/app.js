@@ -2098,9 +2098,8 @@ function formatMetricTotal(metricKey, value, units) {
 }
 
 function formatHourLabel(hour) {
-  const suffix = hour < 12 ? "a" : "p";
-  const hour12 = hour % 12 === 0 ? 12 : hour % 12;
-  return `${hour12}${suffix}`;
+  // Gibt die Stunde im 24h-Format zurück (z.B. "13:00" statt "1p")
+  return `${hour}:00`;
 }
 
 function isOtherSportsType(type) {
