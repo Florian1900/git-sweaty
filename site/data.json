@@ -4587,13 +4587,13 @@
           ],
           "count": 2,
           "distance": 32037.4,
-          "elevation_gain": 255.0,
-          "moving_time": 3994.0
+          "elevation_gain": 0.0,
+          "moving_time": 4081.0
         }
       }
     }
   },
-  "generated_at": "2026-02-17T22:02:00.695363+00:00",
+  "generated_at": "2026-02-18T15:40:35.901188+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143031760",
   "repo": "Florian1900/git-sweaty",
