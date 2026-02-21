@@ -2451,10 +2451,19 @@
     {
       "date": "2026-02-20",
       "hour": 14,
-      "name": "Afternoon Run",
+      "name": "Hin",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/17461065286",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-20",
+      "hour": 16,
+      "name": "Zur\u00fcck",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17464680166",
       "year": 2026
     }
   ],
@@ -4596,12 +4605,13 @@
         },
         "2026-02-20": {
           "activity_ids": [
-            "17461065286"
+            "17461065286",
+            "17464680166"
           ],
-          "count": 1,
-          "distance": 5116.0,
-          "elevation_gain": 15.0,
-          "moving_time": 1866.0
+          "count": 2,
+          "distance": 11619.0,
+          "elevation_gain": 27.0,
+          "moving_time": 4406.0
         }
       },
       "Swim": {
@@ -4647,7 +4657,7 @@
       }
     }
   },
-  "generated_at": "2026-02-20T15:29:09.457764+00:00",
+  "generated_at": "2026-02-21T15:15:01.398419+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143031760",
   "repo": "Florian1900/git-sweaty",

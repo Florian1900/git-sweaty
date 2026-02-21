@@ -3541,10 +3541,23 @@
     "elevation_gain": 15.0,
     "id": "17461065286",
     "moving_time": 1866.0,
-    "name": "Afternoon Run",
+    "name": "Hin",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-02-20T14:03:23Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-20",
+    "distance": 6503.0,
+    "elevation_gain": 12.0,
+    "id": "17464680166",
+    "moving_time": 2540.0,
+    "name": "Zur\u00fcck",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-02-20T16:27:16Z",
     "type": "Run",
     "year": 2026
   }
