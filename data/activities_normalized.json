@@ -3560,5 +3560,18 @@
     "start_date_local": "2026-02-20T16:27:16Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-02-23",
+    "distance": 21166.5,
+    "elevation_gain": 224.0,
+    "id": "17496567499",
+    "moving_time": 2307.0,
+    "name": "Zwift - Race: Stage 2: Zwift Games: Hudson Hustle (C) on Hudson Hustle in New York",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-02-23T18:12:55Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
