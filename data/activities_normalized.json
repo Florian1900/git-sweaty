@@ -3573,5 +3573,18 @@
     "start_date_local": "2026-02-23T18:12:55Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-02-25",
+    "distance": 100530.0,
+    "elevation_gain": 509.0,
+    "id": "17521288956",
+    "moving_time": 17751.0,
+    "name": "Gravel Ride nach Holland",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-02-25T12:57:52Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
