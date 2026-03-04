@@ -2492,6 +2492,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17543828784",
       "year": 2026
+    },
+    {
+      "date": "2026-03-03",
+      "hour": 18,
+      "name": "Zwift - Race \ud83e\udd75",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17591068402",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-03",
+      "hour": 19,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17592526574",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4657,6 +4675,15 @@
           "distance": 8255.0,
           "elevation_gain": 5.0,
           "moving_time": 3164.0
+        },
+        "2026-03-03": {
+          "activity_ids": [
+            "17592526574"
+          ],
+          "count": 1,
+          "distance": 10108.0,
+          "elevation_gain": 22.0,
+          "moving_time": 4342.0
         }
       },
       "Swim": {
@@ -4707,11 +4734,20 @@
           "distance": 21166.5,
           "elevation_gain": 224.0,
           "moving_time": 2307.0
+        },
+        "2026-03-03": {
+          "activity_ids": [
+            "17591068402"
+          ],
+          "count": 1,
+          "distance": 25885.6,
+          "elevation_gain": 293.0,
+          "moving_time": 2956.0
         }
       }
     }
   },
-  "generated_at": "2026-03-03T15:37:50.542992+00:00",
+  "generated_at": "2026-03-04T15:29:18.350119+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143031760",
   "repo": "Florian1900/git-sweaty",

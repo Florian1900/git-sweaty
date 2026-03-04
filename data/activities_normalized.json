@@ -3599,5 +3599,31 @@
     "start_date_local": "2026-02-27T17:18:50Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-03",
+    "distance": 25885.6,
+    "elevation_gain": 293.0,
+    "id": "17591068402",
+    "moving_time": 2956.0,
+    "name": "Zwift - Race \ud83e\udd75",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-03T18:11:44Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-03",
+    "distance": 10108.0,
+    "elevation_gain": 22.0,
+    "id": "17592526574",
+    "moving_time": 4342.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-03T19:24:21Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
