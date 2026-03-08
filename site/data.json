@@ -2519,6 +2519,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17616886548",
       "year": 2026
+    },
+    {
+      "date": "2026-03-07",
+      "hour": 14,
+      "name": "Tempo Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17638099272",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-08",
+      "hour": 15,
+      "name": "Afternoon Gravel Ride",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/17649941257",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4398,6 +4416,15 @@
           "distance": 100530.0,
           "elevation_gain": 509.0,
           "moving_time": 17751.0
+        },
+        "2026-03-08": {
+          "activity_ids": [
+            "17649941257"
+          ],
+          "count": 1,
+          "distance": 17035.6,
+          "elevation_gain": 15.0,
+          "moving_time": 2093.0
         }
       },
       "Ride": {
@@ -4702,6 +4729,15 @@
           "distance": 11013.9,
           "elevation_gain": 11.0,
           "moving_time": 4259.0
+        },
+        "2026-03-07": {
+          "activity_ids": [
+            "17638099272"
+          ],
+          "count": 1,
+          "distance": 15006.0,
+          "elevation_gain": 12.0,
+          "moving_time": 4625.0
         }
       },
       "Swim": {
@@ -4765,7 +4801,7 @@
       }
     }
   },
-  "generated_at": "2026-03-07T15:12:59.663486+00:00",
+  "generated_at": "2026-03-08T15:13:38.181988+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143031760",
   "repo": "Florian1900/git-sweaty",

@@ -3638,5 +3638,31 @@
     "start_date_local": "2026-03-05T18:29:20Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-07",
+    "distance": 15006.0,
+    "elevation_gain": 12.0,
+    "id": "17638099272",
+    "moving_time": 4625.0,
+    "name": "Tempo Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-07T14:35:53Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-08",
+    "distance": 17035.6,
+    "elevation_gain": 15.0,
+    "id": "17649941257",
+    "moving_time": 2093.0,
+    "name": "Afternoon Gravel Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-03-08T15:29:52Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
