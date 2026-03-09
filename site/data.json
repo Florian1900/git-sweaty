@@ -2537,6 +2537,15 @@
       "type": "GravelRide",
       "url": "https://www.strava.com/activities/17649941257",
       "year": 2026
+    },
+    {
+      "date": "2026-03-08",
+      "hour": 17,
+      "name": "Afternoon Long Run \ud83c\udf05",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17652371687",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4738,6 +4747,15 @@
           "distance": 15006.0,
           "elevation_gain": 12.0,
           "moving_time": 4625.0
+        },
+        "2026-03-08": {
+          "activity_ids": [
+            "17652371687"
+          ],
+          "count": 1,
+          "distance": 18006.6,
+          "elevation_gain": 31.0,
+          "moving_time": 6199.0
         }
       },
       "Swim": {
@@ -4801,7 +4819,7 @@
       }
     }
   },
-  "generated_at": "2026-03-08T15:13:38.181988+00:00",
+  "generated_at": "2026-03-09T15:45:58.942880+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143031760",
   "repo": "Florian1900/git-sweaty",
