@@ -3690,5 +3690,31 @@
     "start_date_local": "2026-03-10T17:43:16Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-11",
+    "distance": 31441.5,
+    "elevation_gain": 400.0,
+    "id": "17688871467",
+    "moving_time": 3857.0,
+    "name": "Zwift - Race: Stage 4: Zwift Games: Peaky Pave (B)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-11T19:11:17Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-11",
+    "distance": 5479.1,
+    "elevation_gain": 6.0,
+    "id": "17689066922",
+    "moving_time": 2302.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-11T17:25:24Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
