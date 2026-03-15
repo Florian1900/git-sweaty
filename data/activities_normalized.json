@@ -3716,5 +3716,18 @@
     "start_date_local": "2026-03-11T17:25:24Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 55265.9,
+    "elevation_gain": 286.0,
+    "id": "17722100378",
+    "moving_time": 5731.0,
+    "name": "Zwift - Watopia's Waistband in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-14T16:35:16Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
