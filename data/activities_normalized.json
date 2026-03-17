@@ -3729,5 +3729,31 @@
     "start_date_local": "2026-03-14T16:35:16Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-16",
+    "distance": 24594.4,
+    "elevation_gain": 48.0,
+    "id": "17745622139",
+    "moving_time": 2227.0,
+    "name": "Zwift - Group Ride: Stage 1 - The Zwift Big Spin",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-16T19:30:19Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-16",
+    "distance": 11452.0,
+    "elevation_gain": 24.0,
+    "id": "17745640999",
+    "moving_time": 4200.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-16T17:46:30Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
