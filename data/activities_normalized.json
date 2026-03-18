@@ -3755,5 +3755,18 @@
     "start_date_local": "2026-03-16T17:46:30Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 13067.1,
+    "elevation_gain": 30.0,
+    "id": "17766510513",
+    "moving_time": 4672.0,
+    "name": "Mittagspause \u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-18T12:47:39Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
