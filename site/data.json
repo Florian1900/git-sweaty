@@ -2609,6 +2609,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17766510513",
       "year": 2026
+    },
+    {
+      "date": "2026-03-19",
+      "hour": 17,
+      "name": "Zwift - Race: Stage 5: Zwift Games: Three Step Sisters (C)",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17781971591",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4941,11 +4950,20 @@
           "distance": 24594.4,
           "elevation_gain": 48.0,
           "moving_time": 2227.0
+        },
+        "2026-03-19": {
+          "activity_ids": [
+            "17781971591"
+          ],
+          "count": 1,
+          "distance": 42384.8,
+          "elevation_gain": 589.0,
+          "moving_time": 6069.0
         }
       }
     }
   },
-  "generated_at": "2026-03-19T15:42:03.769889+00:00",
+  "generated_at": "2026-03-20T15:33:16.992480+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143031760",
   "repo": "Florian1900/git-sweaty",
