@@ -3833,5 +3833,18 @@
     "start_date_local": "2026-03-24T19:00:14Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 5082.0,
+    "elevation_gain": 3.0,
+    "id": "17880201507",
+    "moving_time": 1775.0,
+    "name": "Venloop \ud83d\udd1c",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-27T19:09:56Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
