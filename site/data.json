@@ -2708,6 +2708,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17941679602",
       "year": 2026
+    },
+    {
+      "date": "2026-04-03",
+      "hour": 15,
+      "name": "\ud83d\udd73\ufe0f",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17963803949",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5020,6 +5029,15 @@
           "distance": 10708.0,
           "elevation_gain": 26.0,
           "moving_time": 3473.0
+        },
+        "2026-04-03": {
+          "activity_ids": [
+            "17963803949"
+          ],
+          "count": 1,
+          "distance": 12510.0,
+          "elevation_gain": 24.0,
+          "moving_time": 3964.0
         }
       },
       "Swim": {
@@ -5119,7 +5137,7 @@
       }
     }
   },
-  "generated_at": "2026-04-02T15:50:01.130069+00:00",
+  "generated_at": "2026-04-03T15:32:14.269448+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143031760",
   "repo": "Florian1900/git-sweaty",
