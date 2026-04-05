@@ -3924,5 +3924,18 @@
     "start_date_local": "2026-04-03T15:56:14Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 6591.0,
+    "elevation_gain": 81.0,
+    "id": "17988938312",
+    "moving_time": 889.0,
+    "name": "Zwift - FTP w/ Bursts",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-05T16:45:41Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
