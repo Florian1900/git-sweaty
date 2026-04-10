@@ -3976,5 +3976,18 @@
     "start_date_local": "2026-04-07T13:32:24Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 14617.0,
+    "elevation_gain": 16.0,
+    "id": "18045563816",
+    "moving_time": 5118.0,
+    "name": "Intervalle",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-09T20:04:06Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
