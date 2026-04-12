@@ -2771,6 +2771,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18067728431",
       "year": 2026
+    },
+    {
+      "date": "2026-04-12",
+      "hour": 12,
+      "name": "Lunch Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18079086267",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-12",
+      "hour": 16,
+      "name": "Zwift - Jungle Circuit in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18081329634",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5128,6 +5146,15 @@
           "distance": 5064.0,
           "elevation_gain": 8.0,
           "moving_time": 1710.0
+        },
+        "2026-04-12": {
+          "activity_ids": [
+            "18079086267"
+          ],
+          "count": 1,
+          "distance": 17597.0,
+          "elevation_gain": 29.0,
+          "moving_time": 5998.0
         }
       },
       "Swim": {
@@ -5233,11 +5260,20 @@
           "distance": 13675.1,
           "elevation_gain": 423.0,
           "moving_time": 2271.0
+        },
+        "2026-04-12": {
+          "activity_ids": [
+            "18081329634"
+          ],
+          "count": 1,
+          "distance": 27349.6,
+          "elevation_gain": 259.0,
+          "moving_time": 3644.0
         }
       }
     }
   },
-  "generated_at": "2026-04-11T15:23:03.256740+00:00",
+  "generated_at": "2026-04-12T15:26:39.808080+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143031760",
   "repo": "Florian1900/git-sweaty",

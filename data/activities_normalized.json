@@ -4002,5 +4002,31 @@
     "start_date_local": "2026-04-11T14:19:10Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 17597.0,
+    "elevation_gain": 29.0,
+    "id": "18079086267",
+    "moving_time": 5998.0,
+    "name": "Lunch Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-12T12:18:35Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 27349.6,
+    "elevation_gain": 259.0,
+    "id": "18081329634",
+    "moving_time": 3644.0,
+    "name": "Zwift - Jungle Circuit in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-12T16:04:27Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
