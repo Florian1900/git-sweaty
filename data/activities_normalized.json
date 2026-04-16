@@ -4041,5 +4041,31 @@
     "start_date_local": "2026-04-14T20:36:44Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 9022.0,
+    "elevation_gain": 9.0,
+    "id": "18122658352",
+    "moving_time": 2669.0,
+    "name": "Half Easy, Half Tempo",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-15T19:55:56Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 2438.0,
+    "elevation_gain": 0.0,
+    "id": "18130123676",
+    "moving_time": 744.0,
+    "name": "Schulsport",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-16T12:26:00Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

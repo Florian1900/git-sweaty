@@ -2798,6 +2798,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18109671215",
       "year": 2026
+    },
+    {
+      "date": "2026-04-15",
+      "hour": 19,
+      "name": "Half Easy, Half Tempo",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18122658352",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-16",
+      "hour": 12,
+      "name": "Schulsport",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18130123676",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5173,6 +5191,24 @@
           "distance": 10502.0,
           "elevation_gain": 24.0,
           "moving_time": 3715.0
+        },
+        "2026-04-15": {
+          "activity_ids": [
+            "18122658352"
+          ],
+          "count": 1,
+          "distance": 9022.0,
+          "elevation_gain": 9.0,
+          "moving_time": 2669.0
+        },
+        "2026-04-16": {
+          "activity_ids": [
+            "18130123676"
+          ],
+          "count": 1,
+          "distance": 2438.0,
+          "elevation_gain": 0.0,
+          "moving_time": 744.0
         }
       },
       "Swim": {
@@ -5291,7 +5327,7 @@
       }
     }
   },
-  "generated_at": "2026-04-15T15:57:43.748967+00:00",
+  "generated_at": "2026-04-16T16:15:55.285159+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143031760",
   "repo": "Florian1900/git-sweaty",
