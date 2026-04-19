@@ -2816,6 +2816,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18130123676",
       "year": 2026
+    },
+    {
+      "date": "2026-04-18",
+      "hour": 19,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18162442107",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-19",
+      "hour": 10,
+      "name": "Morning Gravel Ride",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/18168127619",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-19",
+      "hour": 11,
+      "name": "Halbmarathon Support",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18172940453",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4713,6 +4740,15 @@
           "distance": 75458.2,
           "elevation_gain": 332.0,
           "moving_time": 11866.0
+        },
+        "2026-04-19": {
+          "activity_ids": [
+            "18168127619"
+          ],
+          "count": 1,
+          "distance": 15194.4,
+          "elevation_gain": 22.0,
+          "moving_time": 2128.0
         }
       },
       "Ride": {
@@ -5209,6 +5245,24 @@
           "distance": 2438.0,
           "elevation_gain": 0.0,
           "moving_time": 744.0
+        },
+        "2026-04-18": {
+          "activity_ids": [
+            "18162442107"
+          ],
+          "count": 1,
+          "distance": 9553.0,
+          "elevation_gain": 8.0,
+          "moving_time": 3086.0
+        },
+        "2026-04-19": {
+          "activity_ids": [
+            "18172940453"
+          ],
+          "count": 1,
+          "distance": 3434.1,
+          "elevation_gain": 0.0,
+          "moving_time": 1511.0
         }
       },
       "Swim": {
@@ -5327,7 +5381,7 @@
       }
     }
   },
-  "generated_at": "2026-04-18T15:28:07.947930+00:00",
+  "generated_at": "2026-04-19T15:28:15.945090+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143031760",
   "repo": "Florian1900/git-sweaty",

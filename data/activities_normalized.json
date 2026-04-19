@@ -4067,5 +4067,44 @@
     "start_date_local": "2026-04-16T12:26:00Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 9553.0,
+    "elevation_gain": 8.0,
+    "id": "18162442107",
+    "moving_time": 3086.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-18T19:16:04Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 15194.4,
+    "elevation_gain": 22.0,
+    "id": "18168127619",
+    "moving_time": 2128.0,
+    "name": "Morning Gravel Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-04-19T10:30:59Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 3434.1,
+    "elevation_gain": 0.0,
+    "id": "18172940453",
+    "moving_time": 1511.0,
+    "name": "Halbmarathon Support",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-19T11:50:19Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
