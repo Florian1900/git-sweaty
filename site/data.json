@@ -2843,6 +2843,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18172940453",
       "year": 2026
+    },
+    {
+      "date": "2026-04-22",
+      "hour": 20,
+      "name": "Taper Citylauf",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18216458190",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-23",
+      "hour": 12,
+      "name": "Schulsport",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18225445969",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5263,6 +5281,24 @@
           "distance": 3434.1,
           "elevation_gain": 0.0,
           "moving_time": 1511.0
+        },
+        "2026-04-22": {
+          "activity_ids": [
+            "18216458190"
+          ],
+          "count": 1,
+          "distance": 9001.1,
+          "elevation_gain": 15.0,
+          "moving_time": 2867.0
+        },
+        "2026-04-23": {
+          "activity_ids": [
+            "18225445969"
+          ],
+          "count": 1,
+          "distance": 3456.0,
+          "elevation_gain": 2.0,
+          "moving_time": 1146.0
         }
       },
       "Swim": {
@@ -5381,7 +5417,7 @@
       }
     }
   },
-  "generated_at": "2026-04-22T16:01:42.819536+00:00",
+  "generated_at": "2026-04-24T15:57:56.655692+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143031760",
   "repo": "Florian1900/git-sweaty",

@@ -4106,5 +4106,31 @@
     "start_date_local": "2026-04-19T11:50:19Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 9001.1,
+    "elevation_gain": 15.0,
+    "id": "18216458190",
+    "moving_time": 2867.0,
+    "name": "Taper Citylauf",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-22T20:05:35Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 3456.0,
+    "elevation_gain": 2.0,
+    "id": "18225445969",
+    "moving_time": 1146.0,
+    "name": "Schulsport",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-23T12:09:16Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
