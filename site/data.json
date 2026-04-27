@@ -2865,7 +2865,7 @@
     {
       "date": "2026-04-26",
       "hour": 13,
-      "name": "Afternoon Run",
+      "name": "Einlaufen",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/18266235415",
@@ -2883,7 +2883,7 @@
     {
       "date": "2026-04-26",
       "hour": 16,
-      "name": "Afternoon Run",
+      "name": "Lauf 2 \ud83d\ude0e",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/18268063822",
@@ -5455,7 +5455,7 @@
       }
     }
   },
-  "generated_at": "2026-04-26T15:33:07.554535+00:00",
+  "generated_at": "2026-04-27T16:17:53.970009+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143031760",
   "repo": "Florian1900/git-sweaty",
