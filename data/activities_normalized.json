@@ -4210,5 +4210,18 @@
     "start_date_local": "2026-04-30T20:14:34Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 13780.3,
+    "elevation_gain": 11.0,
+    "id": "18350348978",
+    "moving_time": 4753.0,
+    "name": "\u274c\u26c8\ufe0f Abbruch",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-02T18:55:49Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

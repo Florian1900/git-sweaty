@@ -2915,6 +2915,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18323182334",
       "year": 2026
+    },
+    {
+      "date": "2026-05-02",
+      "hour": 18,
+      "name": "\u274c\u26c8\ufe0f Abbruch",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18350348978",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5383,6 +5392,15 @@
           "distance": 14488.6,
           "elevation_gain": 52.0,
           "moving_time": 4740.0
+        },
+        "2026-05-02": {
+          "activity_ids": [
+            "18350348978"
+          ],
+          "count": 1,
+          "distance": 13780.3,
+          "elevation_gain": 11.0,
+          "moving_time": 4753.0
         }
       },
       "Swim": {
@@ -5501,7 +5519,7 @@
       }
     }
   },
-  "generated_at": "2026-05-02T15:37:04.935965+00:00",
+  "generated_at": "2026-05-03T15:36:47.235770+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143031760",
   "repo": "Florian1900/git-sweaty",
