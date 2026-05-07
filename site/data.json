@@ -2942,6 +2942,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18389596357",
       "year": 2026
+    },
+    {
+      "date": "2026-05-07",
+      "hour": 12,
+      "name": "Schulsport",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18412077799",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5437,6 +5446,15 @@
           "distance": 12646.0,
           "elevation_gain": 17.0,
           "moving_time": 4646.0
+        },
+        "2026-05-07": {
+          "activity_ids": [
+            "18412077799"
+          ],
+          "count": 1,
+          "distance": 5437.8,
+          "elevation_gain": 0.0,
+          "moving_time": 1880.0
         }
       },
       "Swim": {
@@ -5555,7 +5573,7 @@
       }
     }
   },
-  "generated_at": "2026-05-06T16:22:55.005008+00:00",
+  "generated_at": "2026-05-07T16:31:21.374330+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143031760",
   "repo": "Florian1900/git-sweaty",
