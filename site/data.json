@@ -2951,6 +2951,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18412077799",
       "year": 2026
+    },
+    {
+      "date": "2026-05-10",
+      "hour": 9,
+      "name": "Warm Up",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18449907310",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-10",
+      "hour": 10,
+      "name": "Rhein Ruhr Halbmarathon \ud83d\udd25\ud83e\udd75",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18449909826",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5455,6 +5473,16 @@
           "distance": 5437.8,
           "elevation_gain": 0.0,
           "moving_time": 1880.0
+        },
+        "2026-05-10": {
+          "activity_ids": [
+            "18449907310",
+            "18449909826"
+          ],
+          "count": 2,
+          "distance": 25708.0,
+          "elevation_gain": 47.0,
+          "moving_time": 7676.0
         }
       },
       "Swim": {
@@ -5573,7 +5601,7 @@
       }
     }
   },
-  "generated_at": "2026-05-09T15:39:54.657639+00:00",
+  "generated_at": "2026-05-10T15:41:31.277363+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143031760",
   "repo": "Florian1900/git-sweaty",

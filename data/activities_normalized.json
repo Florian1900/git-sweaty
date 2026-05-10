@@ -4262,5 +4262,31 @@
     "start_date_local": "2026-05-07T12:09:40Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 4048.0,
+    "elevation_gain": 9.0,
+    "id": "18449907310",
+    "moving_time": 1226.0,
+    "name": "Warm Up",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-10T09:36:57Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 21660.0,
+    "elevation_gain": 38.0,
+    "id": "18449909826",
+    "moving_time": 6450.0,
+    "name": "Rhein Ruhr Halbmarathon \ud83d\udd25\ud83e\udd75",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-10T10:15:46Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
