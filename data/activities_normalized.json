@@ -4327,5 +4327,31 @@
     "start_date_local": "2026-05-20T08:32:00Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 37560.9,
+    "elevation_gain": 49.0,
+    "id": "18598731497",
+    "moving_time": 5110.0,
+    "name": "Evening Gravel Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-05-21T18:25:18Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 5285.0,
+    "elevation_gain": 4.0,
+    "id": "18599382179",
+    "moving_time": 1582.0,
+    "name": "\ud83d\udd03 Bike + Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-21T20:15:25Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
