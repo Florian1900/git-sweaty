@@ -3014,6 +3014,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18599382179",
       "year": 2026
+    },
+    {
+      "date": "2026-05-23",
+      "hour": 20,
+      "name": "70K \u2668\ufe0f",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18626580988",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5687,11 +5696,20 @@
           "distance": 27349.6,
           "elevation_gain": 259.0,
           "moving_time": 3644.0
+        },
+        "2026-05-23": {
+          "activity_ids": [
+            "18626580988"
+          ],
+          "count": 1,
+          "distance": 72035.3,
+          "elevation_gain": 714.0,
+          "moving_time": 8551.0
         }
       }
     }
   },
-  "generated_at": "2026-05-23T15:53:30.118865+00:00",
+  "generated_at": "2026-05-24T15:53:35.249804+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143031760",
   "repo": "Florian1900/git-sweaty",
