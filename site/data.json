@@ -3077,6 +3077,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18746156308",
       "year": 2026
+    },
+    {
+      "date": "2026-06-03",
+      "hour": 19,
+      "name": "Abendlauf",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18772578286",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-03",
+      "hour": 17,
+      "name": "Lauf am Nachmittag",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18772578309",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-03",
+      "hour": 18,
+      "name": "Abendlauf",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18772578372",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5690,6 +5717,17 @@
           "distance": 7671.0,
           "elevation_gain": 5.0,
           "moving_time": 2549.0
+        },
+        "2026-06-03": {
+          "activity_ids": [
+            "18772578286",
+            "18772578309",
+            "18772578372"
+          ],
+          "count": 3,
+          "distance": 6928.099999999999,
+          "elevation_gain": 16.0,
+          "moving_time": 1918.0
         }
       },
       "Swim": {
@@ -5817,7 +5855,7 @@
       }
     }
   },
-  "generated_at": "2026-06-02T18:29:38.415567+00:00",
+  "generated_at": "2026-06-03T18:38:55.490088+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143031760",
   "repo": "Florian1900/git-sweaty",
