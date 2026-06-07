@@ -4483,5 +4483,44 @@
     "start_date_local": "2026-06-03T18:30:01Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 569.1,
+    "elevation_gain": 0.0,
+    "id": "18819806318",
+    "moving_time": 201.0,
+    "name": "Auslaufen",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-07T10:31:46Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 5143.0,
+    "elevation_gain": 5.0,
+    "id": "18819806342",
+    "moving_time": 1258.0,
+    "name": "18. Benrather Schlosslauf",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-07T10:00:04Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 2351.0,
+    "elevation_gain": 5.0,
+    "id": "18819806375",
+    "moving_time": 839.0,
+    "name": "Warm Up",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-07T09:17:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
