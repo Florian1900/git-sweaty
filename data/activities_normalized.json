@@ -4587,5 +4587,31 @@
     "start_date_local": "2026-06-14T17:35:39Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 2872.1,
+    "elevation_gain": 0.0,
+    "id": "18946521011",
+    "moving_time": 1117.0,
+    "name": "SPOHO K\u00f6ln",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-16T17:41:15Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 6014.0,
+    "elevation_gain": 3.0,
+    "id": "18947478197",
+    "moving_time": 2076.0,
+    "name": "Abendlauf",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-16T19:44:12Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
