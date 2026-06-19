@@ -3203,6 +3203,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18961082885",
       "year": 2026
+    },
+    {
+      "date": "2026-06-18",
+      "hour": 20,
+      "name": "Abendlauf",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18975891756",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5902,6 +5911,15 @@
           "distance": 7135.0,
           "elevation_gain": 4.0,
           "moving_time": 2456.0
+        },
+        "2026-06-18": {
+          "activity_ids": [
+            "18975891756"
+          ],
+          "count": 1,
+          "distance": 7009.0,
+          "elevation_gain": 4.0,
+          "moving_time": 2345.0
         }
       },
       "Swim": {
@@ -6029,7 +6047,7 @@
       }
     }
   },
-  "generated_at": "2026-06-18T17:53:02.123186+00:00",
+  "generated_at": "2026-06-19T17:09:58.974036+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143031760",
   "repo": "Florian1900/git-sweaty",
