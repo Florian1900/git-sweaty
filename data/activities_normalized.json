@@ -4639,5 +4639,44 @@
     "start_date_local": "2026-06-18T20:06:14Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-19",
+    "distance": 6981.0,
+    "elevation_gain": 6.0,
+    "id": "18987097882",
+    "moving_time": 1238.0,
+    "name": "Evening Gravel Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-06-19T19:26:15Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-19",
+    "distance": 4382.3,
+    "elevation_gain": 4.0,
+    "id": "18988556799",
+    "moving_time": 1283.0,
+    "name": "Night Gravel Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-06-19T22:00:53Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-19",
+    "distance": 5227.0,
+    "elevation_gain": 20.0,
+    "id": "18988991531",
+    "moving_time": 1843.0,
+    "name": "Nachtlauf",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-19T22:41:20Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
