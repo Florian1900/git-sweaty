@@ -3239,6 +3239,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18988991531",
       "year": 2026
+    },
+    {
+      "date": "2026-06-20",
+      "hour": 17,
+      "name": "Ameland Pyramiden Intervalle",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18999478877",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-21",
+      "hour": 15,
+      "name": "Inselumrundung \ud83c\udfdd\ufe0f",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/19012319566",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5173,6 +5191,15 @@
           "distance": 11363.3,
           "elevation_gain": 10.0,
           "moving_time": 2521.0
+        },
+        "2026-06-21": {
+          "activity_ids": [
+            "19012319566"
+          ],
+          "count": 1,
+          "distance": 51521.0,
+          "elevation_gain": 131.0,
+          "moving_time": 6691.0
         }
       },
       "Ride": {
@@ -5966,6 +5993,15 @@
           "distance": 5227.0,
           "elevation_gain": 20.0,
           "moving_time": 1843.0
+        },
+        "2026-06-20": {
+          "activity_ids": [
+            "18999478877"
+          ],
+          "count": 1,
+          "distance": 9030.4,
+          "elevation_gain": 13.0,
+          "moving_time": 2969.0
         }
       },
       "Swim": {
@@ -6093,7 +6129,7 @@
       }
     }
   },
-  "generated_at": "2026-06-20T16:10:16.604518+00:00",
+  "generated_at": "2026-06-21T16:24:43.317699+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143031760",
   "repo": "Florian1900/git-sweaty",

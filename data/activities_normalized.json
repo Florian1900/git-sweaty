@@ -4678,5 +4678,31 @@
     "start_date_local": "2026-06-19T22:41:20Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-20",
+    "distance": 9030.4,
+    "elevation_gain": 13.0,
+    "id": "18999478877",
+    "moving_time": 2969.0,
+    "name": "Ameland Pyramiden Intervalle",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-20T17:27:25Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 51521.0,
+    "elevation_gain": 131.0,
+    "id": "19012319566",
+    "moving_time": 6691.0,
+    "name": "Inselumrundung \ud83c\udfdd\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-06-21T15:38:02Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
