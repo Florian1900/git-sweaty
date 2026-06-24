@@ -4717,5 +4717,18 @@
     "start_date_local": "2026-06-21T19:01:43Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 5259.7,
+    "elevation_gain": 0.0,
+    "id": "19040762508",
+    "moving_time": 1805.0,
+    "name": "SPOHO K\u00f6ln Tag 2",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-23T17:52:18Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

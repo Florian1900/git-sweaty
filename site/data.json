@@ -3266,6 +3266,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19013480554",
       "year": 2026
+    },
+    {
+      "date": "2026-06-23",
+      "hour": 17,
+      "name": "SPOHO K\u00f6ln Tag 2",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19040762508",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6020,6 +6029,15 @@
           "distance": 5026.0,
           "elevation_gain": 17.0,
           "moving_time": 1712.0
+        },
+        "2026-06-23": {
+          "activity_ids": [
+            "19040762508"
+          ],
+          "count": 1,
+          "distance": 5259.7,
+          "elevation_gain": 0.0,
+          "moving_time": 1805.0
         }
       },
       "Swim": {
@@ -6147,7 +6165,7 @@
       }
     }
   },
-  "generated_at": "2026-06-23T17:09:48.254796+00:00",
+  "generated_at": "2026-06-24T16:58:30.575389+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143031760",
   "repo": "Florian1900/git-sweaty",
