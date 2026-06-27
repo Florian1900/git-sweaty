@@ -4756,5 +4756,18 @@
     "start_date_local": "2026-06-25T21:08:11Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-26",
+    "distance": 22698.7,
+    "elevation_gain": 231.0,
+    "id": "19077013006",
+    "moving_time": 2758.0,
+    "name": "Zwift - Tair Dringfa Fechan in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-26T20:31:46Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
