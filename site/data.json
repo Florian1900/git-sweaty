@@ -3302,6 +3302,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19077013006",
       "year": 2026
+    },
+    {
+      "date": "2026-06-27",
+      "hour": 22,
+      "name": "Night Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19090551972",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-28",
+      "hour": 8,
+      "name": "Park Run \ud83c\udf1e",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19095048001",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6083,6 +6101,24 @@
           "distance": 8912.6,
           "elevation_gain": 3.0,
           "moving_time": 2921.0
+        },
+        "2026-06-27": {
+          "activity_ids": [
+            "19090551972"
+          ],
+          "count": 1,
+          "distance": 6016.5,
+          "elevation_gain": 5.0,
+          "moving_time": 2359.0
+        },
+        "2026-06-28": {
+          "activity_ids": [
+            "19095048001"
+          ],
+          "count": 1,
+          "distance": 11003.0,
+          "elevation_gain": 16.0,
+          "moving_time": 4906.0
         }
       },
       "Swim": {
@@ -6219,7 +6255,7 @@
       }
     }
   },
-  "generated_at": "2026-06-27T15:58:01.798120+00:00",
+  "generated_at": "2026-06-28T16:02:28.523472+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143031760",
   "repo": "Florian1900/git-sweaty",

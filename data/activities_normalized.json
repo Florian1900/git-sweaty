@@ -4769,5 +4769,31 @@
     "start_date_local": "2026-06-26T20:31:46Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 6016.5,
+    "elevation_gain": 5.0,
+    "id": "19090551972",
+    "moving_time": 2359.0,
+    "name": "Night Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-27T22:22:29Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 11003.0,
+    "elevation_gain": 16.0,
+    "id": "19095048001",
+    "moving_time": 4906.0,
+    "name": "Park Run \ud83c\udf1e",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-28T08:41:45Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
