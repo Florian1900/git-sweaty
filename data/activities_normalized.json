@@ -4821,5 +4821,18 @@
     "start_date_local": "2026-07-01T19:31:31Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-02",
+    "distance": 30482.8,
+    "elevation_gain": 276.0,
+    "id": "19154877481",
+    "moving_time": 3856.0,
+    "name": "Zwift - Road to Ruins in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-02T20:19:15Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
