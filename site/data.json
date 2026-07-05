@@ -3356,6 +3356,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19167445547",
       "year": 2026
+    },
+    {
+      "date": "2026-07-04",
+      "hour": 21,
+      "name": "Night Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19181135801",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-05",
+      "hour": 14,
+      "name": "Long Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19191140013",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6173,6 +6191,24 @@
           "distance": 10005.5,
           "elevation_gain": 4.0,
           "moving_time": 3217.0
+        },
+        "2026-07-04": {
+          "activity_ids": [
+            "19181135801"
+          ],
+          "count": 1,
+          "distance": 5172.3,
+          "elevation_gain": 16.0,
+          "moving_time": 1968.0
+        },
+        "2026-07-05": {
+          "activity_ids": [
+            "19191140013"
+          ],
+          "count": 1,
+          "distance": 23019.0,
+          "elevation_gain": 50.0,
+          "moving_time": 8697.0
         }
       },
       "Swim": {
@@ -6327,7 +6363,7 @@
       }
     }
   },
-  "generated_at": "2026-07-04T15:52:53.812992+00:00",
+  "generated_at": "2026-07-05T15:59:06.945423+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143031760",
   "repo": "Florian1900/git-sweaty",
