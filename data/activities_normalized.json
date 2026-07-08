@@ -4873,5 +4873,18 @@
     "start_date_local": "2026-07-05T14:14:47Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 9006.4,
+    "elevation_gain": 2.0,
+    "id": "19220432194",
+    "moving_time": 3091.0,
+    "name": "Ready f\u00fcr K\u00f6ln \ud83d\udd25",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-07T21:58:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
