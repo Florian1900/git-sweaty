@@ -4899,5 +4899,44 @@
     "start_date_local": "2026-07-08T20:01:55Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-10",
+    "distance": 1048.0,
+    "elevation_gain": 2.0,
+    "id": "19259083462",
+    "moving_time": 380.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-10T18:27:20Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-10",
+    "distance": 5222.0,
+    "elevation_gain": 13.0,
+    "id": "19259083486",
+    "moving_time": 1268.0,
+    "name": "Altstadt Lauf K\u00f6ln \ud83d\udd25\u2600\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-10T18:46:02Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-10",
+    "distance": 1168.0,
+    "elevation_gain": 6.0,
+    "id": "19259083500",
+    "moving_time": 458.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-10T19:46:04Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
