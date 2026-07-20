@@ -5016,5 +5016,18 @@
     "start_date_local": "2026-07-18T22:41:58Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-19",
+    "distance": 25016.0,
+    "elevation_gain": 34.0,
+    "id": "19379556497",
+    "moving_time": 8636.0,
+    "name": "Long Run \ud83c\udf1e",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-19T16:06:19Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
