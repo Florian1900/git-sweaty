@@ -5081,5 +5081,18 @@
     "start_date_local": "2026-07-24T20:15:07Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-25",
+    "distance": 29502.7,
+    "elevation_gain": 32.0,
+    "id": "19462783627",
+    "moving_time": 4205.0,
+    "name": "Triathlon Strecke abgefahren",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-07-25T18:46:08Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]

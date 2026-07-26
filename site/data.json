@@ -3518,6 +3518,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19449592200",
       "year": 2026
+    },
+    {
+      "date": "2026-07-25",
+      "hour": 18,
+      "name": "Triathlon Strecke abgefahren",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/19462783627",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5461,6 +5470,15 @@
           "distance": 51521.0,
           "elevation_gain": 131.0,
           "moving_time": 6691.0
+        },
+        "2026-07-25": {
+          "activity_ids": [
+            "19462783627"
+          ],
+          "count": 1,
+          "distance": 29502.7,
+          "elevation_gain": 32.0,
+          "moving_time": 4205.0
         }
       },
       "Ride": {
@@ -6635,7 +6653,7 @@
       }
     }
   },
-  "generated_at": "2026-07-25T15:54:31.724835+00:00",
+  "generated_at": "2026-07-26T15:52:46.278858+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143031760",
   "repo": "Florian1900/git-sweaty",
