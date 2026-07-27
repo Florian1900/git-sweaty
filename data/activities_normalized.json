@@ -5094,5 +5094,18 @@
     "start_date_local": "2026-07-25T18:46:08Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 28017.6,
+    "elevation_gain": 43.0,
+    "id": "19476387281",
+    "moving_time": 8703.0,
+    "name": "Long Long Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-26T16:42:42Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
