@@ -5133,5 +5133,44 @@
     "start_date_local": "2026-07-29T19:04:02Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-31",
+    "distance": 65956.0,
+    "elevation_gain": 320.0,
+    "id": "19545549338",
+    "moving_time": 9524.0,
+    "name": "Afternoon Gravel Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-07-31T16:56:51Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-31",
+    "distance": 7205.0,
+    "elevation_gain": 7.0,
+    "id": "19546892768",
+    "moving_time": 2300.0,
+    "name": "65km Rad + 2x2km 4;10",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-31T21:19:00Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 1300.0,
+    "elevation_gain": 0.0,
+    "id": "19552115966",
+    "moving_time": 1779.0,
+    "name": "Morning Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-01T09:51:43Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
