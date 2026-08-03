@@ -5185,5 +5185,18 @@
     "start_date_local": "2026-08-01T20:32:54Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-02",
+    "distance": 9361.0,
+    "elevation_gain": 10.0,
+    "id": "19572621514",
+    "moving_time": 3113.0,
+    "name": "Endlich Mal Local Legend \ud83d\ude05",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-02T17:29:02Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
