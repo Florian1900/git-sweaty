@@ -5276,5 +5276,18 @@
     "start_date_local": "2026-08-09T09:58:51Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-08-09",
+    "distance": 32210.0,
+    "elevation_gain": 239.0,
+    "id": "19673184469",
+    "moving_time": 3770.0,
+    "name": "Zwift - Petit Boucle in France",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-09T20:25:07Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
