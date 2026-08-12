@@ -5289,5 +5289,18 @@
     "start_date_local": "2026-08-09T20:25:07Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-11",
+    "distance": 71447.5,
+    "elevation_gain": 136.0,
+    "id": "19700882304",
+    "moving_time": 9468.0,
+    "name": "Evening Gravel Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-08-11T18:20:56Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]

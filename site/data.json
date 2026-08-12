@@ -3662,6 +3662,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19673184469",
       "year": 2026
+    },
+    {
+      "date": "2026-08-11",
+      "hour": 18,
+      "name": "Evening Gravel Ride",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/19700882304",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5623,6 +5632,15 @@
           "distance": 65956.0,
           "elevation_gain": 320.0,
           "moving_time": 9524.0
+        },
+        "2026-08-11": {
+          "activity_ids": [
+            "19700882304"
+          ],
+          "count": 1,
+          "distance": 71447.5,
+          "elevation_gain": 136.0,
+          "moving_time": 9468.0
         }
       },
       "Ride": {
@@ -6923,7 +6941,7 @@
       }
     }
   },
-  "generated_at": "2026-08-11T15:47:00.347766+00:00",
+  "generated_at": "2026-08-12T15:47:47.161406+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143031760",
   "repo": "Florian1900/git-sweaty",
