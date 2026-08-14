@@ -5315,5 +5315,31 @@
     "start_date_local": "2026-08-12T20:40:46Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-13",
+    "distance": 21358.7,
+    "elevation_gain": 125.0,
+    "id": "19728489286",
+    "moving_time": 2244.0,
+    "name": "Zwift - Race: Stage 1 - Makuri Madness - Mech Isle Mayhem (D)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-13T19:13:28Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-13",
+    "distance": 15074.5,
+    "elevation_gain": 259.0,
+    "id": "19728953490",
+    "moving_time": 2220.0,
+    "name": "Zwift - Climb Portal: Crow Road at 100% Elevation in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-13T19:56:43Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
