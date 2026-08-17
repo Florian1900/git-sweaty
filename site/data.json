@@ -3711,10 +3711,28 @@
     {
       "date": "2026-08-16",
       "hour": 15,
-      "name": "Afternoon Swim",
+      "name": "Schwimmen 500m Triathlon Training",
       "subtype": "Swim",
       "type": "Swim",
       "url": "https://www.strava.com/activities/19767811129",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-16",
+      "hour": 19,
+      "name": "20km all out",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19770915374",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-16",
+      "hour": 20,
+      "name": "~5km fast Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19771541664",
       "year": 2026
     }
   ],
@@ -6814,6 +6832,15 @@
           "distance": 10510.7,
           "elevation_gain": 22.0,
           "moving_time": 3753.0
+        },
+        "2026-08-16": {
+          "activity_ids": [
+            "19771541664"
+          ],
+          "count": 1,
+          "distance": 6316.0,
+          "elevation_gain": 3.0,
+          "moving_time": 2001.0
         }
       },
       "Swim": {
@@ -7019,11 +7046,20 @@
           "distance": 36433.2,
           "elevation_gain": 384.0,
           "moving_time": 4464.0
+        },
+        "2026-08-16": {
+          "activity_ids": [
+            "19770915374"
+          ],
+          "count": 1,
+          "distance": 23236.3,
+          "elevation_gain": 37.0,
+          "moving_time": 2310.0
         }
       }
     }
   },
-  "generated_at": "2026-08-16T15:10:09.821072+00:00",
+  "generated_at": "2026-08-17T15:14:06.194442+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143031760",
   "repo": "Florian1900/git-sweaty",

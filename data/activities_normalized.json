@@ -5361,11 +5361,37 @@
     "elevation_gain": 0.0,
     "id": "19767811129",
     "moving_time": 2089.0,
-    "name": "Afternoon Swim",
+    "name": "Schwimmen 500m Triathlon Training",
     "raw_activity_type": "Swim",
     "raw_type": "Swim",
     "start_date_local": "2026-08-16T15:56:40Z",
     "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 23236.3,
+    "elevation_gain": 37.0,
+    "id": "19770915374",
+    "moving_time": 2310.0,
+    "name": "20km all out",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-16T19:57:52Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 6316.0,
+    "elevation_gain": 3.0,
+    "id": "19771541664",
+    "moving_time": 2001.0,
+    "name": "~5km fast Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-16T20:53:05Z",
+    "type": "Run",
     "year": 2026
   }
 ]
