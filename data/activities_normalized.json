@@ -5393,5 +5393,18 @@
     "start_date_local": "2026-08-16T20:53:05Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-18",
+    "distance": 8299.5,
+    "elevation_gain": 4.0,
+    "id": "19799312033",
+    "moving_time": 2981.0,
+    "name": "Abendlauf",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-18T20:43:43Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
