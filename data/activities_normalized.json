@@ -5432,5 +5432,44 @@
     "start_date_local": "2026-08-22T09:43:18Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-22",
+    "distance": 11713.4,
+    "elevation_gain": 16.0,
+    "id": "19852843321",
+    "moving_time": 1884.0,
+    "name": "Endlich angekommen nach 333km \ud83c\udfc1",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-08-22T17:09:26Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 1325.0,
+    "elevation_gain": 0.0,
+    "id": "19861622591",
+    "moving_time": 1921.0,
+    "name": "Lunch Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-23T11:10:44Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 7212.6,
+    "elevation_gain": 14.0,
+    "id": "19863016499",
+    "moving_time": 3324.0,
+    "name": "Lunch Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-23T12:10:24Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
