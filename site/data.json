@@ -3824,6 +3824,15 @@
       "type": "GravelRide",
       "url": "https://www.strava.com/activities/19913076063",
       "year": 2026
+    },
+    {
+      "date": "2026-08-30",
+      "hour": 7,
+      "name": "Ameland Zur\u00fcck #1",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/19966237075",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5823,6 +5832,15 @@
           "distance": 25617.0,
           "elevation_gain": 74.0,
           "moving_time": 4206.0
+        },
+        "2026-08-30": {
+          "activity_ids": [
+            "19966237075"
+          ],
+          "count": 1,
+          "distance": 167900.0,
+          "elevation_gain": 276.0,
+          "moving_time": 26472.0
         }
       },
       "Ride": {
@@ -7223,7 +7241,7 @@
       }
     }
   },
-  "generated_at": "2026-08-29T17:58:47.474450+00:00",
+  "generated_at": "2026-08-30T18:13:53.520356+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143031760",
   "repo": "Florian1900/git-sweaty",
