@@ -5536,5 +5536,18 @@
     "start_date_local": "2026-08-30T07:54:55Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-31",
+    "distance": 170226.0,
+    "elevation_gain": 634.0,
+    "id": "19978642252",
+    "moving_time": 27410.0,
+    "name": "Ameland Zur\u00fcck #2",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-08-31T09:46:52Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
