@@ -3842,6 +3842,15 @@
       "type": "GravelRide",
       "url": "https://www.strava.com/activities/19978642252",
       "year": 2026
+    },
+    {
+      "date": "2026-09-03",
+      "hour": 20,
+      "name": "Abendlauf",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20024538091",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7023,6 +7032,15 @@
           "distance": 12538.5,
           "elevation_gain": 23.0,
           "moving_time": 4542.0
+        },
+        "2026-09-03": {
+          "activity_ids": [
+            "20024538091"
+          ],
+          "count": 1,
+          "distance": 4749.8,
+          "elevation_gain": 17.0,
+          "moving_time": 1592.0
         }
       },
       "Swim": {
@@ -7259,7 +7277,7 @@
       }
     }
   },
-  "generated_at": "2026-09-03T18:10:41.187750+00:00",
+  "generated_at": "2026-09-04T17:52:40.399365+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143031760",
   "repo": "Florian1900/git-sweaty",
