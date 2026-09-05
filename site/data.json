@@ -3851,6 +3851,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20024538091",
       "year": 2026
+    },
+    {
+      "date": "2026-09-05",
+      "hour": 8,
+      "name": "Morning Gravel Ride",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/20041906194",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-05",
+      "hour": 9,
+      "name": "1. Parkrun",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20042294461",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5868,6 +5886,15 @@
           "distance": 170226.0,
           "elevation_gain": 634.0,
           "moving_time": 27410.0
+        },
+        "2026-09-05": {
+          "activity_ids": [
+            "20041906194"
+          ],
+          "count": 1,
+          "distance": 3012.0,
+          "elevation_gain": 8.0,
+          "moving_time": 624.0
         }
       },
       "Ride": {
@@ -7041,6 +7068,15 @@
           "distance": 4749.8,
           "elevation_gain": 17.0,
           "moving_time": 1592.0
+        },
+        "2026-09-05": {
+          "activity_ids": [
+            "20042294461"
+          ],
+          "count": 1,
+          "distance": 5118.0,
+          "elevation_gain": 2.0,
+          "moving_time": 2204.0
         }
       },
       "Swim": {
@@ -7277,7 +7313,7 @@
       }
     }
   },
-  "generated_at": "2026-09-04T17:52:40.399365+00:00",
+  "generated_at": "2026-09-05T16:59:13.633426+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143031760",
   "repo": "Florian1900/git-sweaty",
