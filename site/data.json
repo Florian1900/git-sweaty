@@ -3869,6 +3869,42 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20042294461",
       "year": 2026
+    },
+    {
+      "date": "2026-09-06",
+      "hour": 11,
+      "name": "Erkundungstour Triathlon Willich \ud83d\udc40",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20058358986",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-06",
+      "hour": 13,
+      "name": "Triathlon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20061210240",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-06",
+      "hour": 13,
+      "name": "Triathlon Swim",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/20061210243",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-06",
+      "hour": 14,
+      "name": "Triathlon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20061210264",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5906,6 +5942,16 @@
           "distance": 3428.9,
           "elevation_gain": 0.0,
           "moving_time": 1015.0
+        },
+        "2026-09-06": {
+          "activity_ids": [
+            "20058358986",
+            "20061210240"
+          ],
+          "count": 2,
+          "distance": 21042.399999999998,
+          "elevation_gain": 62.0,
+          "moving_time": 2499.0
         }
       },
       "Run": {
@@ -7077,6 +7123,15 @@
           "distance": 5118.0,
           "elevation_gain": 2.0,
           "moving_time": 2204.0
+        },
+        "2026-09-06": {
+          "activity_ids": [
+            "20061210264"
+          ],
+          "count": 1,
+          "distance": 4726.0,
+          "elevation_gain": 9.0,
+          "moving_time": 1318.0
         }
       },
       "Swim": {
@@ -7133,6 +7188,15 @@
           "distance": 525.0,
           "elevation_gain": 0.0,
           "moving_time": 647.0
+        },
+        "2026-09-06": {
+          "activity_ids": [
+            "20061210243"
+          ],
+          "count": 1,
+          "distance": 500.0,
+          "elevation_gain": 0.0,
+          "moving_time": 579.0
         }
       },
       "VirtualRide": {
@@ -7313,7 +7377,7 @@
       }
     }
   },
-  "generated_at": "2026-09-05T16:59:13.633426+00:00",
+  "generated_at": "2026-09-06T17:23:45.238122+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143031760",
   "repo": "Florian1900/git-sweaty",

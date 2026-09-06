@@ -5588,5 +5588,57 @@
     "start_date_local": "2026-09-05T09:03:03Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-06",
+    "distance": 2811.8,
+    "elevation_gain": 7.0,
+    "id": "20058358986",
+    "moving_time": 580.0,
+    "name": "Erkundungstour Triathlon Willich \ud83d\udc40",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-06T11:58:45Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-06",
+    "distance": 18230.6,
+    "elevation_gain": 55.0,
+    "id": "20061210240",
+    "moving_time": 1919.0,
+    "name": "Triathlon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-06T13:52:29Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-06",
+    "distance": 500.0,
+    "elevation_gain": 0.0,
+    "id": "20061210243",
+    "moving_time": 579.0,
+    "name": "Triathlon Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-09-06T13:39:54Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-06",
+    "distance": 4726.0,
+    "elevation_gain": 9.0,
+    "id": "20061210264",
+    "moving_time": 1318.0,
+    "name": "Triathlon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-06T14:25:19Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
