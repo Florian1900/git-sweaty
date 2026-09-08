@@ -3905,6 +3905,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20061210264",
       "year": 2026
+    },
+    {
+      "date": "2026-09-08",
+      "hour": 18,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20091225670",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7132,6 +7141,15 @@
           "distance": 4726.0,
           "elevation_gain": 9.0,
           "moving_time": 1318.0
+        },
+        "2026-09-08": {
+          "activity_ids": [
+            "20091225670"
+          ],
+          "count": 1,
+          "distance": 10753.8,
+          "elevation_gain": 25.0,
+          "moving_time": 3740.0
         }
       },
       "Swim": {
@@ -7377,7 +7395,7 @@
       }
     }
   },
-  "generated_at": "2026-09-07T18:54:37.633724+00:00",
+  "generated_at": "2026-09-08T18:10:17.274561+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143031760",
   "repo": "Florian1900/git-sweaty",
