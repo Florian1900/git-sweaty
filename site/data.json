@@ -4004,6 +4004,42 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20374117451",
       "year": 2026
+    },
+    {
+      "date": "2026-10-03",
+      "hour": 21,
+      "name": "Night Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20442307343",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-03",
+      "hour": 22,
+      "name": "Night Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20442307344",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-04",
+      "hour": 9,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20448089454",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-04",
+      "hour": 10,
+      "name": "K\u00f6ln Marathon \ud83d\udd25\ud83d\udc80",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20448090051",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7312,6 +7348,26 @@
           "distance": 8149.7,
           "elevation_gain": 3.0,
           "moving_time": 2797.0
+        },
+        "2026-10-03": {
+          "activity_ids": [
+            "20442307343",
+            "20442307344"
+          ],
+          "count": 2,
+          "distance": 1962.2,
+          "elevation_gain": 0.0,
+          "moving_time": 281.0
+        },
+        "2026-10-04": {
+          "activity_ids": [
+            "20448089454",
+            "20448090051"
+          ],
+          "count": 2,
+          "distance": 44823.8,
+          "elevation_gain": 81.0,
+          "moving_time": 15100.0
         }
       },
       "Swim": {
@@ -7569,7 +7625,7 @@
       }
     }
   },
-  "generated_at": "2026-10-03T18:24:03.940539+00:00",
+  "generated_at": "2026-10-04T18:26:23.984241+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143031760",
   "repo": "Florian1900/git-sweaty",
