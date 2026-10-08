@@ -4040,6 +4040,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20448090051",
       "year": 2026
+    },
+    {
+      "date": "2026-10-08",
+      "hour": 15,
+      "name": "Afternoon Padel",
+      "subtype": "Padel",
+      "type": "Padel",
+      "url": "https://www.strava.com/activities/20502897723",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6068,6 +6077,17 @@
           "moving_time": 624.0
         }
       },
+      "Padel": {
+        "2026-10-08": {
+          "activity_ids": [
+            "20502897723"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3157.0
+        }
+      },
       "Ride": {
         "2026-02-16": {
           "activity_ids": [
@@ -7625,7 +7645,7 @@
       }
     }
   },
-  "generated_at": "2026-10-07T20:15:50.949122+00:00",
+  "generated_at": "2026-10-08T20:18:30.147180+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143031760",
   "repo": "Florian1900/git-sweaty",
@@ -7647,6 +7667,10 @@
     "MountainBikeRide": {
       "accent": "#f15bb5",
       "label": "Mountain Bike Ride"
+    },
+    "Padel": {
+      "accent": "#ffbe0b",
+      "label": "Padel"
     },
     "Ride": {
       "accent": "#05ffa1",
@@ -7678,7 +7702,8 @@
     "Run",
     "Swim",
     "VirtualRide",
-    "Workout"
+    "Workout",
+    "Padel"
   ],
   "units": {
     "distance": "km",
