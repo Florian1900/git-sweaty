@@ -4049,6 +4049,15 @@
       "type": "Padel",
       "url": "https://www.strava.com/activities/20502897723",
       "year": 2026
+    },
+    {
+      "date": "2026-10-11",
+      "hour": 9,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20536797327",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7388,6 +7397,15 @@
           "distance": 44823.8,
           "elevation_gain": 81.0,
           "moving_time": 15100.0
+        },
+        "2026-10-11": {
+          "activity_ids": [
+            "20536797327"
+          ],
+          "count": 1,
+          "distance": 4175.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1460.0
         }
       },
       "Swim": {
@@ -7645,7 +7663,7 @@
       }
     }
   },
-  "generated_at": "2026-10-10T19:01:20.315524+00:00",
+  "generated_at": "2026-10-11T19:15:37.752206+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143031760",
   "repo": "Florian1900/git-sweaty",
