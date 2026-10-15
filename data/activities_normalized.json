@@ -5861,5 +5861,18 @@
     "start_date_local": "2026-10-11T09:12:16Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-15",
+    "distance": 29751.3,
+    "elevation_gain": 366.0,
+    "id": "20599386804",
+    "moving_time": 3763.0,
+    "name": "Zwift - Race: Stage 2 - Race - Tour of Watopia 2026 (C)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-15T19:12:27Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
