@@ -5887,5 +5887,18 @@
     "start_date_local": "2026-10-22T16:55:05Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-23",
+    "distance": 17769.5,
+    "elevation_gain": 91.0,
+    "id": "20701035470",
+    "moving_time": 1814.0,
+    "name": "Zwift - Race: Zwift Crit Racing Club - Volcano Circuit CCW (D)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-23T15:43:17Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

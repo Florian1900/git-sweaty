@@ -4076,6 +4076,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20689337020",
       "year": 2026
+    },
+    {
+      "date": "2026-10-23",
+      "hour": 15,
+      "name": "Zwift - Race: Zwift Crit Racing Club - Volcano Circuit CCW (D)",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20701035470",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7683,6 +7692,15 @@
           "distance": 29751.3,
           "elevation_gain": 366.0,
           "moving_time": 3763.0
+        },
+        "2026-10-23": {
+          "activity_ids": [
+            "20701035470"
+          ],
+          "count": 1,
+          "distance": 17769.5,
+          "elevation_gain": 91.0,
+          "moving_time": 1814.0
         }
       },
       "Workout": {
@@ -7699,7 +7717,7 @@
       }
     }
   },
-  "generated_at": "2026-10-22T18:55:14.597139+00:00",
+  "generated_at": "2026-10-23T18:46:41.675534+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143031760",
   "repo": "Florian1900/git-sweaty",
