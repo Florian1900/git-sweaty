@@ -5939,5 +5939,18 @@
     "start_date_local": "2026-10-26T16:01:01Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-27",
+    "distance": 16506.7,
+    "elevation_gain": 95.0,
+    "id": "20752009253",
+    "moving_time": 5955.0,
+    "name": "Stausee umrundet \ud83c\udde7\ud83c\uddea",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-27T13:00:39Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

@@ -4112,6 +4112,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20738670670",
       "year": 2026
+    },
+    {
+      "date": "2026-10-27",
+      "hour": 13,
+      "name": "Stausee umrundet \ud83c\udde7\ud83c\uddea",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20752009253",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7487,6 +7496,15 @@
           "distance": 2400.7,
           "elevation_gain": 32.0,
           "moving_time": 948.0
+        },
+        "2026-10-27": {
+          "activity_ids": [
+            "20752009253"
+          ],
+          "count": 1,
+          "distance": 16506.7,
+          "elevation_gain": 95.0,
+          "moving_time": 5955.0
         }
       },
       "Swim": {
@@ -7771,7 +7789,7 @@
       }
     }
   },
-  "generated_at": "2026-10-26T20:12:36.233240+00:00",
+  "generated_at": "2026-10-27T19:44:00.027067+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/143031760",
   "repo": "Florian1900/git-sweaty",
