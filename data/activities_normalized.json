@@ -5952,5 +5952,18 @@
     "start_date_local": "2026-10-27T13:00:39Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-29",
+    "distance": 6006.5,
+    "elevation_gain": 2.0,
+    "id": "20783719507",
+    "moving_time": 2263.0,
+    "name": "Nachtlauf",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-29T21:25:56Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
